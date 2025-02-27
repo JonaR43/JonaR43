@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm JonaR43! 👋
 
-<!--
-**JonaR43/JonaR43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=JonaR43&color=blue&style=flat)
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm a passionate developer working on web applications, backend systems, and process scheduling simulations. I love solving complex problems and building efficient systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on **Zen Cart templates, process schedulers, and full-stack web apps**
+- 🌱 Exploring **React, Vue, Python, and C++**
+- 🎯 Focused on **modular web development, database management, and system simulations**
+
+
+## 🛠️ Tech Stack
+- **Languages:** JavaScript, Python, C++, PHP, SQL
+- **Frontend:** React, Vue, Handlebars, HTML/CSS
+- **Backend:** Node.js, PHP, MySQL, PostgreSQL
+- **Tools:** Git, Zen Cart, Handlebars, Bootstrap, Docker
+
+## 📈 GitHub Stats
+![JonaR43's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonaR43&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JonaR43&layout=compact&theme=radical)
+
+---
+
+
+
