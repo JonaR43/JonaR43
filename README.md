@@ -1,4 +1,4 @@
-# Hi there, I'm JonaR43! 👋
+# Hi there, I'm Jonathan! 👋
 
 ## 🚀 About Me
 I'm a passionate developer working on web applications, backend systems, and process scheduling simulations. I love solving complex problems and building efficient systems.
