@@ -11,7 +11,7 @@ I'm a passionate developer working on web applications, backend systems, and pro
 
 
 ## 🛠️ Tech Stack
-- **Languages:** JavaScript, Python, C++, PHP, SQL
+- **Languages:** JavaScript, Python, C++, PHP, SQL, Rust
 - **Frontend:** React, Vue, Handlebars, HTML/CSS
 - **Backend:** Node.js, PHP, MySQL, PostgreSQL
 - **Tools:** Git, Zen Cart, Handlebars, Bootstrap, Docker
