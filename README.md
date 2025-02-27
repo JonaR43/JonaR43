@@ -13,6 +13,8 @@ I'm a passionate developer working on web applications, backend systems, and pro
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -32,6 +34,7 @@ I'm a passionate developer working on web applications, backend systems, and pro
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### 🤖 Machine Learning & Data Science:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -44,11 +47,16 @@ I'm a passionate developer working on web applications, backend systems, and pro
 ![Agile](https://img.shields.io/badge/Agile-0288D1?style=for-the-badge&logo=agile&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-FF9900?style=for-the-badge&logo=git&logoColor=white)
 ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-9C27B0?style=for-the-badge&logo=pattern&logoColor=white)
+![Database Optimization](https://img.shields.io/badge/Database%20Optimization-336791?style=for-the-badge&logo=database&logoColor=white)
+![System Design](https://img.shields.io/badge/System%20Design-FF2D20?style=for-the-badge&logo=architecture&logoColor=white)
 
 ## 📈 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JonaR43&layout=compact&theme=radical)
 
 ---
+
+
+
 
 
 
