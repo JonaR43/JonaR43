@@ -1,6 +1,4 @@
 # Hi there, I'm Jonathan! 👋
-## 💬 "Building the future, one line of code at a time." 
-<font color="#00ff00">`echo "Stay curious, keep coding, and never stop learning!"`</font>
 
 ## 🚀 About Me
 I'm a passionate developer working on web applications, backend systems, and process scheduling simulations. I love solving complex problems and building efficient systems.
