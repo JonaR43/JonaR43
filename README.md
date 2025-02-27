@@ -2,7 +2,7 @@
 
 ## 💬 "Building the future, one line of code at a time."
 
-<pre style="color: #00ff00;">echo "Stay curious, keep coding, and never stop learning!"</pre>
+<pre style="color: #00ff00;">echo "Oh thats just compiler small talk, compilers always be complaining"</pre>
 
 ## 🚀 About Me
 I'm a passionate developer working on web applications, backend systems, and process scheduling simulations. I love solving complex problems and building efficient systems.
